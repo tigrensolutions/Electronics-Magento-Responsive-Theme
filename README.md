@@ -1,0 +1,1 @@
+# electronics-magento-responsive-theme
