@@ -15,8 +15,6 @@ Elegance and modern are what you might think about our new Rex Tech Store Magent
 
 Besides, its well-organized layout with large banners and featured areas, categories section, and effective product presentation will show all the store assortment in the most favorable light.
 
-&nbsp;
-
 <strong>Handy website header</strong>
 
 The<em> header</em><em> </em>gives immediate access to everything visitors may need on your site, including <em>account management, search, checkout, language and currency switchers</em>, and store contact information.
@@ -29,8 +27,6 @@ There is a convenient top menu with <em>categories, home, shop, blog,</em> and <
 
 On the homepage, there are several banners (under the top menu, in the center, in each product category) with the aim of highlighting your featured items, new arrivals, promotions, and so on. It is optional to display the top banner as a single image or a banner slider.
 
-&nbsp;
-
 <strong>Attractive daily deals</strong>
 
 The <em>Deal of the day</em> section will show a slider of hot deals with specific discount prices, percentage of discount, countdown timer, and the number of remaining sale items. This section will definitely grab the attention of all of your shoppers as well as stimulate their purchases. It's worth noting that you have to install the Daily Deal Extension to make this section work.
@@ -38,8 +34,6 @@ The <em>Deal of the day</em> section will show a slider of hot deals with specif
 <strong>Nice product presentation </strong>
 
 This Magento responsive theme free download is designed with a product-centered layout to display your goods in the best light. To be particular, your products will be arranged in turn by categories in the homepage center. Each category will consist of several intentional items, sub-categories, and a related banner. In this way, the store owners can be able to drive the customers’ attention to certain products that they want to boost sales.
-
-&nbsp;
 
 <strong>Top brand list/ Shop by brand
 </strong>
@@ -82,6 +76,6 @@ As you can see, the <strong><em>Rex Tech Store</em></strong> is a very simple an
 
 The last thing we want to say is that as a Magento store owner, especially one who is operating an e-commerce start-up with a limited budget, it's a pity if you ignore this elegant Magento responsive theme free download. For more information, please check the theme's demos (back-end and front-end), detailed installation guide, and user guide.
 
-<em><strong>Get it now!</strong></em>
+<em><strong><a href="https://www.tigren.com/magento-2-extensions" rel="nofollow">Get it now!</a></strong></em>
 
 
